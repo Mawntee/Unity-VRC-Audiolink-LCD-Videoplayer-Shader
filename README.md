@@ -16,4 +16,5 @@ This is fairly lightly tested, so if you have any issues, problems, or features 
 Mawntee#6969
 
 License = Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) 
+
 (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
