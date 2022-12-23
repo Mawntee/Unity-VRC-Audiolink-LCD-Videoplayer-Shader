@@ -15,4 +15,5 @@ Example of features/properties:
 This is fairly lightly tested, so if you have any issues, problems, or features you'd like added feel free to DM me on Discord:
 Mawntee#6969
 
-License = Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+License = Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) 
+(http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
