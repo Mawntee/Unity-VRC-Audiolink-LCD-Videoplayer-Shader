@@ -9,8 +9,8 @@ Important notes:
 - Currently, instancing is not supported, so a new material will have to be made for each unique display effect. 
 
 Example of features/properties:
-
-![image](https://user-images.githubusercontent.com/51247415/209279341-55f9de78-19fd-464d-89a7-6e3cbfd8be0e.png)
+(Default Material Settings)
+![image](https://user-images.githubusercontent.com/51247415/209742077-38120583-f524-48f9-8448-b23db43974b4.png)
 
 This is fairly lightly tested, so if you have any issues, problems, or features you'd like added feel free to DM me on Discord:
 Mawntee#6969
